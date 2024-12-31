@@ -16,6 +16,7 @@ The dataset contains real estate listings from California, including variables s
 Regression models that predict real estate prices based on housing attributes (e.g., number of rooms, proximity to the ocean, and location). Data visualizations highlighting trends and patterns, such as price distributions by location, room counts, and proximity to the ocean. Insights derived from regression analysis about the most significant predictors of housing prices in California. For example, the impact of ocean proximity, number of rooms, and geographic location on pricing. Model performance evaluation (e.g., R-squared, RMSE) and potential recommendations for future housing investments or policy-making.
 
 
+
 # Understanding Economic Development - Analysis of GDP and Extractive Institutions
 
 ## Goal: 
