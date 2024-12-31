@@ -1,4 +1,4 @@
-# California Real Estate Analysis and Predictions
+# Project 1: California Real Estate Analysis and Predictions
 
 ## Goal: 
 To predict California real estate prices and analyze key factors affecting them, including ocean proximity, location, and housing specifications such as the number of rooms, using regression and data analysis.
@@ -17,7 +17,7 @@ Regression models that predict real estate prices based on housing attributes (e
 
 
 
-# Understanding Economic Development - Analysis of GDP and Extractive Institutions
+# Project 2: Understanding Economic Development - Analysis of GDP and Extractive Institutions
 
 ## Goal: 
 To analyze the relationship between GDP growth and the characteristics of extractive institutions, using Bayesian modeling and Monte Carlo simulations to inform more effective policies for sustainable economic development.
