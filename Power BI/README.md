@@ -1,1 +1,2 @@
-
+# Overview
+Thank you for taking the time to go through my work! These Power BI dashboards have been created to provide insightful visualizations and analysis on several datasets. The purpose of these dashboards are to allow users to interact with the data and gain meaningful insights through an intuitive interface. By leveraging these tools, these dashboards showcase key metrics and trends that are relevant to the analysis.
